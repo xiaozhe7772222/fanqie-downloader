@@ -1,0 +1,11 @@
+# 数据目录
+*/data/
+*.json
+
+# 缓存
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
